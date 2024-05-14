@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  //David Andres Morales -  CONDICIONAL ANIDADO 08
+  // ALEJANDRO LOPEZ RIVERA
   /*El jefe del departamento de construcción de la constructora Pagasa,
   desea que se le desarrolle un programa para sus empleados, el cual
   calcule el sueldo de un empleado, de tal manera que el sueldo se

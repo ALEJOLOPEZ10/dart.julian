@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  //David Andres Morales - EJE CONDICIONAL DOBLE 04
+  // ALEJANDRO LOPEZ RIVERA
   /*Una empresa de bienes raíces ofrece casas de interés social, bajo las siguientes condiciones: 
   Si los ingresos del comprador  son  mayores  o  iguales  a  $800000  la  cuota  inicial  será  del  
   15%  del  costo  de  la  casa  y  el  resto  se distribuirá en pagos mensuales, a pagar en diez años. 

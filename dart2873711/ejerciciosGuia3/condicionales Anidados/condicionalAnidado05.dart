@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  //David Andres Morales -  CONDICIONAL ANIDADO 05
+  // ALEJANDRO LOPEZ RIVERA
   /*Una frutería ofrece las manzanas con descuento según la siguiente tabla
   NUM. DE KILOS COMPRADOS  |  % DESCUENTO
   0 -2                     |  0

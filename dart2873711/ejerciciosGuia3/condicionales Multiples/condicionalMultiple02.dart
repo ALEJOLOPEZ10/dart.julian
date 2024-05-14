@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  //David Andres Morales - EJE CONDICIONAL MULTIPLE 02
+  // ALEJANDRO LOPEZ RIVERA
 
   // Definición de variables
   String nombre;

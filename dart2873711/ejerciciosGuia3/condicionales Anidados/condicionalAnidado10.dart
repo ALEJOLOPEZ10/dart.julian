@@ -1,6 +1,6 @@
 import 'dart:io';
 void main(){
-//David Andres Morales - CONDICIONAL ANIDADO 10
+// ALEJANDRO LOPEZ RIVERA
 /*Tomando  como  base  los  resultados  obtenidos  en  un  laboratorio  de  análisis  clínicos,  
 un  medico determina si una persona esta normal, tiene anemia o tiene cardiopatía  lo cual depende 
 de su nivel de  hemoglobina  en  la  sangre,  de  su  edad  y de  su  sexo.  Si  el nivel  de  

@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  //David Andres Morales -  CONDICIONAL ANIDADO 04
+  // ALEJANDRO LOPEZ RIVERA
   /*En una fábrica de computadoras se planea ofrecer a los clientes un descuento que dependerá 
   del número de computadoras que compre. Si las computadoras son menos de cinco se les dará un 
   10% de descuento sobre el total de la compra; si el número de computadoras es mayor o igual a 

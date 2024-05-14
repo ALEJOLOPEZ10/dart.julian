@@ -2,7 +2,7 @@ import 'dart:io';
 import 'dart:math';
 
 void main() {
-  //David Andres Morales - EJE CONDICIONAL MULTIPLE 04
+  // ALEJANDRO LOPEZ RIVERA
   /*   |x ^ 2     | Si (x) mod 4 = 0 
   f(x) |x / 6     | Si (x) mod 4 = 1
        |Raíz(x)   | Si (x) mod 4 = 2

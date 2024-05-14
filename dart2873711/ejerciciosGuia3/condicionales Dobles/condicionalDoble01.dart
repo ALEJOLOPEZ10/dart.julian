@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  //David Andres Morales - EJE CONDICIONAL DOBLE 01
+  // ALEJANDRO LOPEZ RIVERA
   /*Desarrollar un algoritmo que lea dos números y los imprima en forma ascendente.*/
   // Definición Variables
   int numero1, numero2;

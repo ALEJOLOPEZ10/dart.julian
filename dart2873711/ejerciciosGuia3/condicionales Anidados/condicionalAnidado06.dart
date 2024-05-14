@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  //David Andres Morales -  CONDICIONAL ANIDADO 06
+  // ALEJANDRO LOPEZ RIVERA
   /*El dueño de una empresa desea planificar las decisiones financieras que tomara en el Siguiente año.
   La manera de planificarlas depende de lo siguiente:
   Si actualmente su capital se encuentra con saldo negativo, pedirá un préstamo bancario para que su 

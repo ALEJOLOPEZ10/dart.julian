@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  //David Andres Morales - EJE CONDICIONAL DOBLE 06
+  // ALEJANDRO LOPEZ RIVERA
   /*El gobierno colombiano desea reforestar un bosque que
   mide determinado número de hectáreas. Si la superficie del
   terreno excede a 1 millón de metros cuadrados, entonces decidirá

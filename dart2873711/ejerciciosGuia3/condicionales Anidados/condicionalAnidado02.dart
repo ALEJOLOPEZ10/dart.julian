@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  //David Andres Morales -  CONDICIONAL ANIDADO 02
+  // ALEJANDRO LOPEZ RIVERA
   /*Dado el monto de una compra calcular el descuento
   considerado•Descuento es 20% si el monto es mayor a
   20000 pesos.•Descuento es 10% si el monto es mayor a

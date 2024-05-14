@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  //David Andres Morales - EJE CONDICIONAL DOBLE 02
+  // ALEJANDRO LOPEZ RIVERA
   /*Un obrero necesita calcular su salario semanal, el cual se obtiene de la sig. manera:
   
   •Si trabaja 40 horas o menos se le paga $16 por hora

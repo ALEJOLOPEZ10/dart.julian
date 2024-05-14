@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  //David Andres Morales -  CONDICIONAL ANIDADO 05
+  // ALEJANDRO LOPEZ RIVERA
   /*En  un  montallantas  se  ha  establecido  una  promoción  de  las  llantas  marca  
   “Ponchadas”,  dicha promoción consiste en lo siguiente:
 

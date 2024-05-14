@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main(List<String> args) {
-   //David Andres Morales -  CONDICIONAL ANIDADO 01
+   // ALEJANDRO LOPEZ RIVERA
    /*Dado tres números calcular el mayor*/ 
   // DEFINICION VARIABLES
   int numero1, numero2, numero3, mayor;

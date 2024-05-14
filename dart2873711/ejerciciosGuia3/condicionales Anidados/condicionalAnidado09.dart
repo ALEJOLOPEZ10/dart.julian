@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  //David Andres Morales -  CONDICIONAL ANIDADO 09
+  // ALEJANDRO LOPEZ RIVERA
   /*El fondo de administración de pensiones requiere clasificar a las personas que
   se jubilaran en el año 2009. Existen tres tipos de jubilaciones: por edad,
   por antigüedad joven y por antigüedad adulta. Las personas adscritas a la jubilación

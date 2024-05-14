@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main(List<String> args) {
-//David Andres Morales - EJE CONDICIONAL MULTIPLE 01
+// ALEJANDRO LOPEZ RIVERA
 String? nombreCliente;
 int tipoCliente;
 int cantEscobas, cantRecogedores, cantAromat;

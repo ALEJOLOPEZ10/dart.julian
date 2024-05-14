@@ -2,7 +2,7 @@ import 'dart:io';
 import 'dart:math'; // Importa el paquete de matemáticas
 
 void main() {
-  //David Andres Morales - EJE CONDICIONAL MULTIPLE 03
+  // ALEJANDRO LOPEZ RIVERA
   /*Dados como datos dos variables de tipo entero, obtenga el resultado de la siguiente función:
     Val     | Num
     100 * v | 1

@@ -1,8 +1,10 @@
 import 'dart:io';
 
 void main() {
-  //David Andres Morales - EJE CONDICIONAL MULTIPLE 07
-  /*El costo de las llamadas internacionales depende de la zona geográfica en la que se encuentre el país 
+  // ALEJANDRO LOPEZ RIVERA
+
+  /*
+  El costo de las llamadas internacionales depende de la zona geográfica en la que se encuentre el país 
   destino, y del número de minutos hablados.En la siguiente tabla se presenta el costo por minuto por zona.
   A cada uno se le ha asociado una clave.  Construya  la  solución  para  calcular  e  imprimir  el  
   costo  de  una  llamada  dada  la  clave  y  la duración de la llamada.
@@ -15,12 +17,15 @@ void main() {
   25    | África            | 600    |                460             |
   29    | Oceanía           | 500    |                390             |
  */
+
   // Definición Variables
+
   int claveZona;
   int duracionLlamada;
   int costoTotal;
 
   // Entrada Algoritmo
+
   print("Ingrese la clave de la zona geográfica:");
   claveZona = int.parse(stdin.readLineSync()!);
   
@@ -28,9 +33,11 @@ void main() {
   duracionLlamada = int.parse(stdin.readLineSync()!);
 
   // Proceso Algoritmo
+
   switch (claveZona) {
     case 12:
       // América del Norte
+
       if (duracionLlamada >= 4) {
         costoTotal = 200 + (duracionLlamada - 3) * 150; // Se cobra el precio base más el precio por minuto adicional
       } else {
@@ -38,7 +45,9 @@ void main() {
       }
       break;
     case 15:
+
       // América Central
+
       if (duracionLlamada >= 4) {
         costoTotal = 220 + (duracionLlamada - 3) * 180;
       } else {
@@ -47,6 +56,7 @@ void main() {
       break;
     case 18:
       // América del Sur
+
       if (duracionLlamada >= 4) {
         costoTotal = 450 + (duracionLlamada - 3) * 350;
       } else {
@@ -55,6 +65,7 @@ void main() {
       break;
     case 19:
       // Europa
+
       if (duracionLlamada >= 4) {
         costoTotal = 350 + (duracionLlamada - 3) * 270;
       } else {
@@ -62,9 +73,13 @@ void main() {
       }
       break;
     case 23:
+
       // Asia
+
     case 25:
+
       // África
+
       if (duracionLlamada >= 4) {
         costoTotal = 600 + (duracionLlamada - 3) * 460;
       } else {
@@ -72,7 +87,9 @@ void main() {
       }
       break;
     case 29:
+
       // Oceanía
+      
       if (duracionLlamada >= 4) {
         costoTotal = 500 + (duracionLlamada - 3) * 390;
       } else {

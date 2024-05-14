@@ -1,15 +1,21 @@
 import 'dart:io';
 
 void main() {
-  //David Andres Morales - EJE CONDICIONAL MULTIPLE 06
-  /*Desarrollar un algoritmo que lea el nombre del mes y el año e imprima en pantalla cuantos días 
-  tiene. Es necesario tener en cuenta si es año bisiesto o no.*/
+  // ALEJANDRO LOPEZ RIVERA
+
+  /*
+  Desarrollar un algoritmo que lea el nombre del mes y el año e imprima en pantalla cuantos días 
+  tiene. Es necesario tener en cuenta si es año bisiesto o no.
+  */
+
   // Definición Variables
+
   String nombreMes;
   int anio;
   int diasEnMes;
 
   // Entrada Algoritmo
+
   print("Ingrese el nombre del mes:");
   nombreMes = stdin.readLineSync()!;
   
@@ -17,6 +23,7 @@ void main() {
   anio = int.parse(stdin.readLineSync()!);
 
   // Proceso Algoritmo
+
   switch (nombreMes.toLowerCase()) {
     case "enero":
     case "marzo":
@@ -25,12 +32,14 @@ void main() {
     case "agosto":
     case "octubre":
     case "diciembre":
+
       diasEnMes = 31;
       break;
     case "abril":
     case "junio":
     case "septiembre":
     case "noviembre":
+    
       diasEnMes = 30;
       break;
     case "febrero":
@@ -46,6 +55,7 @@ void main() {
   }
 
   // Salida Algoritmo
+
   if (diasEnMes > 0) {
     print("El mes de $nombreMes en el año $anio tiene $diasEnMes días.");
   } else {
