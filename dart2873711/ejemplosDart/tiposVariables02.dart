@@ -1,5 +1,6 @@
 void main() {
   //ALEJANDRO LOPEZ RIVERA
+  
   print("TIPOS DE VARIABLES");
   print("Tipo ENTERO");
   int cantExamenes; //Definicion Variables
